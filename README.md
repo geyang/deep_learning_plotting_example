@@ -53,6 +53,11 @@ Some of the plotting code used in our paper, as an example for good-looking plot
 
     I almost forgot this one. Make sure you add some extra padding between the plotting area and the title, x/y-labels, and the legends. The default of `pyplot` tend to be too small, making the figure look busy.
     
+8. Consistency Between Figures
+
+    Try to use the same marker, line-style, or color code for the same thing across different plots. This shows logic in your choices, and makes the plots more consistent.
+    
+    Sometimes for legibility reasons collisions can not be avoided. This is okay if choices are made with care. 
 
 ## How To Run This Example
 
@@ -70,4 +75,4 @@ python rebuttal_plots/plots.py
 ![./figure_screenshots/e_maml-rebuttal-v3-final-09.png](./figure_screenshots/e_maml-rebuttal-v3-final-09.png)
 ![./figure_screenshots/e_maml-rebuttal-v3-final-10.png](./figure_screenshots/e_maml-rebuttal-v3-final-10.png)
 
-**with :heart: Ge**
+**Ge Yang, 2018. Written with :heart:**
