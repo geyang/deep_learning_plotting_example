@@ -10,7 +10,7 @@ Some of the plotting code used in our paper, as an example for good-looking plot
 
 1. **Frameless**. 
     
-    Avoid frames on legends and main plot unless necessary. Lines and frames add to visual clutering, take up visual processing bandwidth in your brain, and distracts the reader's attention for the more relevant part of the figures.
+    Avoid frames on legends and the main plot unless necessary. Lines and frames add to visual cluttering, take up visual processing bandwidth in your brain, and distracts the reader's attention from the more relevant part of the figures.
     
     **General rule of visual attention**: attention = ink of interest / total ink in figure.
     
@@ -24,6 +24,8 @@ Some of the plotting code used in our paper, as an example for good-looking plot
     Desaturated colors look the best to the eye. Either turn the alpha to 0.3 or 0.7 depends on the color, or directly desaturate color with color picker. 
     
     We are less sensitive to green than red, use different alpha value for these colors.
+    
+    **note**: my plots tend to be too light from time to time. This is just a personal taste. The optimal does change depends on the monitor, but with wider adoption of Macs with IPS panel, this is becoming less of a problem.
     
 3. **Simpler Plot, Simpler Message**
 
