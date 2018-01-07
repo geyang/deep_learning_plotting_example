@@ -29,7 +29,7 @@ Some of the plotting code used in our paper, as an example for good-looking plot
     
 3. **Simpler Plot, Simpler Message**
 
-    Sometimes we tend to want to put too much data into a single plot. This makes those plots harder to digest. We should make it easy for readers to understand what each plot is showing.
+    Sometimes we tend to want to put too much data into a single plot. This makes those plots harder to digest. We should make it easy for readers to understand what each plot is trying to show. Sympathy is an important part of communication.
     
     This means the best plot shows only the two things we want to compare, and maybe a baseline. Only plot multiple lines in the same plot if you have to, and/or they don't overlap substantially.
     
