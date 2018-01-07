@@ -36,6 +36,21 @@ Some of the plotting code used in our paper, as an example for good-looking plot
 4. **Accessibility**
     
     Personally, I like to use different line style and marker types for accessibility with the visually impaired. I prefer to avoid high-contrast of red-green color-blind palettes because they are terrible fixes for a legitimate problem. Instead, I prefer to use styling for that purpose. This way, majority of the readers can still have the best possible experience, and the accessibility suffers none. 
+    
+5. Font Size
+    
+    Please use font-sizes that are legible in the actual paper. Fonts should not be too small to read, but also shall not be too obnoxiously large. Have some taste.
+    
+6. Font
+    
+    Some people prefer to use same same font family as the LaTeX document itself. I don't really feel strongly about this, because as long as the fonts are consistent using a different font for figures gives the figures a separate visual identity. 
+    
+    If you want to use a math font for the figures, you can override this with the `paramsrc` of `pyplot`.
+
+7. Padding
+
+    I almost forgot this one. Make sure you add some extra padding between the plotting area and the title, x/y-labels, and the legends. The default of `pyplot` tend to be too small, making the figure look busy.
+    
 
 ## How To Run This Example
 
@@ -52,3 +67,5 @@ python rebuttal_plots/plots.py
 ![./figure_screenshots/e_maml-rebuttal-v3-final-08.png](./figure_screenshots/e_maml-rebuttal-v3-final-08.png)
 ![./figure_screenshots/e_maml-rebuttal-v3-final-09.png](./figure_screenshots/e_maml-rebuttal-v3-final-09.png)
 ![./figure_screenshots/e_maml-rebuttal-v3-final-10.png](./figure_screenshots/e_maml-rebuttal-v3-final-10.png)
+
+**with :heart: Ge**
