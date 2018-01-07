@@ -43,6 +43,8 @@ Some of the plotting code used in our paper, as an example for good-looking plot
     
     Please use font-sizes that are legible in the actual paper. Fonts should not be too small to read, but also shall not be too obnoxiously large. Have some taste.
     
+    Some of the numbers in these figures are a tag too small.
+    
 6. Font
     
     Some people prefer to use the same font family for text in the figure as the main LaTeX document. I don't feel strongly about this, because as long as the fonts are consistent using a different font for figures gives the figures a separate visual identity. 
