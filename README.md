@@ -25,7 +25,7 @@ Some of the plotting code used in our paper, as an example for good-looking plot
     
     We are less sensitive to green than red, use different alpha value for these colors.
     
-    **note**: my plots tend to be too light from time to time. This is just a personal taste. The optimal does change depends on the monitor, but with wider adoption of Macs with IPS panel, this is becoming less of a problem.
+    **note**: my plots tend to be too light from time to time. This is just a personal thing. The optimal does change depends on the monitor, but with wider adoption of Macs with IPS panel, this is becoming less of a problem.
     
 3. **Simpler Plot, Simpler Message**
 
