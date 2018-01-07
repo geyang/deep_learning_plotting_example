@@ -45,7 +45,7 @@ Some of the plotting code used in our paper, as an example for good-looking plot
     
 6. Font
     
-    Some people prefer to use same same font family as the LaTeX document itself. I don't really feel strongly about this, because as long as the fonts are consistent using a different font for figures gives the figures a separate visual identity. 
+    Some people prefer to use the same font family for text in the figure as the main LaTeX document. I don't feel strongly about this, because as long as the fonts are consistent using a different font for figures gives the figures a separate visual identity. 
     
     If you want to use a math font for the figures, you can override this with the `paramsrc` of `pyplot`.
 
