@@ -37,7 +37,7 @@ Some of the plotting code used in our paper, as an example for good-looking plot
     
 4. **Accessibility**
     
-    Personally, I like to use different line style and marker types for accessibility with the visually impaired. I prefer to avoid high-contrast of red-green color-blind palettes because they are terrible fixes for a legitimate problem. Instead, I prefer to use styling for that purpose. This way, majority of the readers can still have the best possible experience, and the accessibility suffers none. 
+    Personally, I like to use different line style and marker types for accessibility with the visually impaired. I prefer to avoid high-contrast or red-green color-blind palettes because they tend to be bad fix for a legitimate problem. Instead, I prefer to use styling for that purpose. This way, majority of the readers can still have the best possible experience, and the accessibility suffers none. 
     
 5. Font Size
     
