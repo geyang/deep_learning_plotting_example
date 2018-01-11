@@ -72,7 +72,8 @@ python rebuttal_plots/plots.py
 
 ## Example plots:
 
-![./figure_screenshots/Cost_Curves.png](./figure_screenshots/Cost_Curves.png)
+<img width="600" alt="./figure_screenshots/Cost_Curves.png" src="./figure_screenshots/Cost_Curves.png">
+
 ![./figure_screenshots/Learning_Curves.png](./figure_screenshots/Learning_Curves.png)
 
 **Ge Yang, Bradly Stadie 2018. Written with :heart:**
