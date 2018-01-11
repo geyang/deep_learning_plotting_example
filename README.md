@@ -72,9 +72,7 @@ python rebuttal_plots/plots.py
 
 ## Example plots:
 
-![./figure_screenshots/e_maml-rebuttal-v3-final-07.png](./figure_screenshots/e_maml-rebuttal-v3-final-07.png)
-![./figure_screenshots/e_maml-rebuttal-v3-final-08.png](./figure_screenshots/e_maml-rebuttal-v3-final-08.png)
-![./figure_screenshots/e_maml-rebuttal-v3-final-09.png](./figure_screenshots/e_maml-rebuttal-v3-final-09.png)
-![./figure_screenshots/e_maml-rebuttal-v3-final-10.png](./figure_screenshots/e_maml-rebuttal-v3-final-10.png)
+![./figure_screenshots/Cost_Curves.png](./figure_screenshots/Cost_Curves.png)
+![./figure_screenshots/Learning_Curves.png](./figure_screenshots/Learning_Curves.png)
 
-**Ge Yang, 2018. Written with :heart:**
+**Ge Yang, Bradly Stadie 2018. Written with :heart:**
